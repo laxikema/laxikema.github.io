@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://laxikema.github.io/sitemap/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/Mix/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/RBb/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/yjv/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/Zaj/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/fHR/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/JxX/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/dOe/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/REL/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/ThV/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/wmn/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/ruI/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/iKC/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/QsL/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/VNy/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/IQv/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/oDY/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/jof/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/aYW/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/DCZ/sitemap_index.laxikema
+Sitemap: https://laxikema.github.io/kAx/sitemap_index.laxikema
